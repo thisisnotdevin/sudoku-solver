@@ -1,4 +1,4 @@
-# Sudoku Solver
+# Sudoku Solver (using python)
 
 Are you tired of struggling to pass some of the evil rounds in daily sudoku challenges? Do you find that learning from your own mistakes is not enough? Look no further, the sudoku_solver is here to assist you!
 
